@@ -1,0 +1,1 @@
+SELECT SUM(salary), AVG(salary) FROM emp;

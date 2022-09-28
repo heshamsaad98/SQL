@@ -1,1 +1,1 @@
-SELECT title FROM favorites;
+SELECT * FROM suppliers;

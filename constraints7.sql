@@ -1,0 +1,2 @@
+ALTER TABLE worker
+DROP CONSTRAINT chk_salary;

@@ -1,0 +1,2 @@
+SELECT * FROM suppliers
+WHERE suplier_id NOT BETWEEN 5000 AND 5010;
